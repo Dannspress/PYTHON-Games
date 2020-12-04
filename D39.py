@@ -4,7 +4,7 @@ Nome = str(input('Olá! Como você se chama? ').upper())
 print('Prazer, {}! Vamos jogar JOKENPÔ?'.format(Nome))
 
 print('--' * 20)
-print('J O K E N P Ô (Plus)')
+print('J O K E N P Ô -Plus-')
 print('--' * 20)
 print('1 - PEDRA')
 print('2 - PAPEL')
